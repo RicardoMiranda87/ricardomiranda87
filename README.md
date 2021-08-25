@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi =D
 
 <!-- Tabelas de Status -->
 
