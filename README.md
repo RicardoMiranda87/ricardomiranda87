@@ -1,17 +1,11 @@
 ###Hi =D
 
-<div bg-color>
-  <a href="https://github.com/MarcelMAFares">
-  <img bg_color="DEG,COLOR1,COLOR2,COLOR3" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelMAFares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelMAFares&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <!-- Tabelas de Status -->
 
 <div>
   <a href="https://github.com/RicardoMiranda87">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardomiranda87&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomiranda87&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardomiranda87&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomiranda87&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <!-- Imagens das linguagens -->
